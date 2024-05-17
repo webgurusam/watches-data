@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 19",
+        "price": 399.99
+    },
+    {
+        "id": 2,
+        "name": "Galaxy Watch 15000",
+        "price": 329.99
+    },
+    {
+        "id": 3,
+        "name": "Garmin Forerunner 945",
+        "price": 599.99
+    },
+    {
+        "id": 4,
+        "name": "Fitbit Versa 3",
+        "price": 229.95
+    },
+    {
+        "id": 5,
+        "name": "Huawei Watch GT 3",
+        "price": 249.99
+    }
+]
